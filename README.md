@@ -17,11 +17,11 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#62](https://github.com/MhankBarBar/termux-wabot/pull/62) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-2. 🗣 Commented on [#35](https://github.com/MhankBarBar/termux-wabot/issues/35) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-3. ❌ Closed PR [#57](https://github.com/MhankBarBar/termux-wabot/pull/57) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-4. ❌ Closed PR [#58](https://github.com/MhankBarBar/termux-wabot/pull/58) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-5. ❌ Closed PR [#56](https://github.com/MhankBarBar/termux-wabot/pull/56) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+1. ❌ Closed PR [#63](https://github.com/MhankBarBar/termux-wabot/pull/63) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+2. ❌ Closed PR [#62](https://github.com/MhankBarBar/termux-wabot/pull/62) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+3. 🗣 Commented on [#35](https://github.com/MhankBarBar/termux-wabot/issues/35) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+4. ❌ Closed PR [#57](https://github.com/MhankBarBar/termux-wabot/pull/57) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+5. ❌ Closed PR [#58](https://github.com/MhankBarBar/termux-wabot/pull/58) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
 <!--END_SECTION:activity-->
 
 ---
