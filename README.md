@@ -17,11 +17,11 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#229](https://github.com/MhankBarBar/whatsapp-bot/pull/229) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-2. ❌ Closed PR [#72](https://github.com/MhankBarBar/termux-wabot/pull/72) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-3. ❌ Closed PR [#71](https://github.com/MhankBarBar/termux-wabot/pull/71) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-4. ❗️ Closed issue [#66](https://github.com/MhankBarBar/termux-wabot/issues/66) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-5. 🗣 Commented on [#66](https://github.com/MhankBarBar/termux-wabot/issues/66) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+1. ❗️ Closed issue [#73](https://github.com/MhankBarBar/termux-wabot/issues/73) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+2. ❌ Closed PR [#229](https://github.com/MhankBarBar/whatsapp-bot/pull/229) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+3. ❌ Closed PR [#72](https://github.com/MhankBarBar/termux-wabot/pull/72) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+4. ❌ Closed PR [#71](https://github.com/MhankBarBar/termux-wabot/pull/71) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+5. ❗️ Closed issue [#66](https://github.com/MhankBarBar/termux-wabot/issues/66) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
 <!--END_SECTION:activity-->
 
 ---
