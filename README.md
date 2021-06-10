@@ -17,11 +17,11 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
-2. 🗣 Commented on [#75](https://github.com/MhankBarBar/termux-wabot/issues/75) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-3. ❗️ Closed issue [#2](https://github.com/MhankBarBar/MhankBarBar/issues/2) in [MhankBarBar/MhankBarBar](https://github.com/MhankBarBar/MhankBarBar)
-4. ❗️ Opened issue [#75](https://github.com/MhankBarBar/termux-wabot/issues/75) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-5. ❌ Closed PR [#232](https://github.com/MhankBarBar/whatsapp-bot/pull/232) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+1. ❗️ Closed issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
+2. ❗️ Opened issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
+3. 🗣 Commented on [#75](https://github.com/MhankBarBar/termux-wabot/issues/75) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+4. ❗️ Closed issue [#2](https://github.com/MhankBarBar/MhankBarBar/issues/2) in [MhankBarBar/MhankBarBar](https://github.com/MhankBarBar/MhankBarBar)
+5. ❗️ Opened issue [#75](https://github.com/MhankBarBar/termux-wabot/issues/75) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
 <!--END_SECTION:activity-->
 
 ---
